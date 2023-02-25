@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Indus-01
-- 👀 I’m interested in web-dewelopment and python kivymd mobile development
-- 🌱 I’m currently learning javascript, python
+Welcome to my profile, bro.
 
-<!---
-Indus-01/Indus-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Miral Abbastada and I am fullstack developer
+
+I'm develop mobile apps, websites and many good software like Calculator, Online chat and etc.
+
+In my profile you will see:
+
+My Projects
+My websites
+Software
+
+Ok, see you later, good luck!

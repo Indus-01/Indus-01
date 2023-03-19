@@ -1,6 +1,6 @@
 Welcome to my profile, bro.
 
-I am Miral Abbastada and I am fullstack developer
+I am Miral Abbastada and I am frontend and software developer
 
 I'm develop mobile apps, websites and many good software like Calculator, Online chat and etc.
 

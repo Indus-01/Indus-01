@@ -2,7 +2,7 @@ Welcome to my profile, bro.
 
 I am Miral Abbastada and I am frontend and software developer
 
-I'm develop mobile apps, websites and many good software like Calculator, Online chat and etc.
+I'm develop mobile websites and many good software like Calculator, Notes, landings and etc.
 
 In my profile you will see:
 
